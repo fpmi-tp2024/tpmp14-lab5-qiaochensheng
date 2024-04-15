@@ -1,0 +1,6 @@
+Добавить содержимое в .gitignore:
+# Object files
+*.o
+# Executables
+studentapp
+build/
