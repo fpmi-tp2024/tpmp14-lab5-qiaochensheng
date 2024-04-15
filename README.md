@@ -1,21 +1,20 @@
 # tpmp14-lab5-qiaochensheng
 
-# Project Name: 
+# Overview
 
-в данном блоке указать название проекта.
+Source C project for sqlite database using.
 
-# Description: 
+# Usage
 
-Краткое описание проекта и его функциональности в 3-5 предложениях.
+Use `make`,`Makefile` and `sqlite3` to build project.
 
-# Installation: 
+# Building
 
-Последовательность шагов, как установить приложениелокально.
+Use follow command<Enter>
 
-# Usage: 
+```
+make
+```
+# Author
 
-Рекомендации как использовать приложение после установки. Может содержать скриншоты.
-
-# Contributing: 
-
-Сведения об авторах проекта и какие задачи реализовывали.
+//Цяо Чэньшэн
